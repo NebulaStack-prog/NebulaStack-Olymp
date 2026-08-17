@@ -26,28 +26,10 @@ Develop strong algorithmic thinking, master competitive programming techniques, 
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
-| **NS-I001** |  | — | 📝 |
-| **NS-I002** |  | — | 📝 |
-| **NS-I003** | | — | 📝 |
-| **NS-I004** |  | — | 📝 |
-
-
-# 🧩 Problem Sets
-
-The repository will contain solutions and materials covering:
-
-* 🔢 Mathematics
-* 📊 Number Theory
-* 🔍 Algorithms
-* 🌳 Data Structures
-* 🕸️ Graph Theory
-* 🧮 Dynamic Programming
-* 🔎 Searching and Sorting
-* ⚡ Greedy Algorithms
-* 🧱 Combinatorics
-* 🧠 Computational Geometry
-* 📝 String Algorithms
-* 🏆 Competitive Programming
+| **NS-I001** |  |  | 📝 |
+| **NS-I002** |  |  | 📝 |
+| **NS-I003** | |  | 📝 |
+| **NS-I004** |  |  | 📝 |
 
 # 🏆 Olympiads & Competitions
 
