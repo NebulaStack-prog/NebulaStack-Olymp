@@ -20,9 +20,6 @@ Develop strong algorithmic thinking, master competitive programming techniques, 
 *No projects*
 
 ## Phase II
-*No projects*
-
-## Phase III
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
