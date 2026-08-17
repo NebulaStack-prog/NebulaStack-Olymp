@@ -65,7 +65,7 @@ A large-scale competitive programming project combining algorithms, data structu
 
 # 🛠 Technology Stack
 
-* C++
+* C++ (min level)
 * Python
 * Git
 * GitHub
