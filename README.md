@@ -55,9 +55,7 @@ The repository will also document participation in programming competitions and 
 
 Results, certificates and relevant materials may be documented alongside the corresponding projects.
 
-# 🚀 Final Project
-
-## Olympiad Programming Product
+# 🚀 Final Project (Product)
 
 A large-scale competitive programming project combining algorithms, data structures and problem-solving techniques studied throughout the Olympiad direction.
 
