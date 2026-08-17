@@ -31,7 +31,6 @@ Develop strong algorithmic thinking, master competitive programming techniques, 
 | **NS-I003** | | — | 📝 |
 | **NS-I004** |  | — | 📝 |
 
-> Project numbering starts from **NS-I001** independently from the main NebulaStack project numbering.
 
 # 🧩 Problem Sets
 
@@ -54,13 +53,6 @@ The repository will contain solutions and materials covering:
 
 The repository will also document participation in programming competitions and olympiads.
 
-Examples:
-
-* ВсОШ
-* Высшая проба
-* Покори Воробьёвы горы
-* Other olympiads and competitive programming contests
-
 Results, certificates and relevant materials may be documented alongside the corresponding projects.
 
 # 🚀 Final Project
@@ -69,7 +61,7 @@ Results, certificates and relevant materials may be documented alongside the cor
 
 A large-scale competitive programming project combining algorithms, data structures and problem-solving techniques studied throughout the Olympiad direction.
 
-**Status:** 🛠 In Development
+**Status:** 📝 Idea Stage
 
 # 🛠 Technology Stack
 
