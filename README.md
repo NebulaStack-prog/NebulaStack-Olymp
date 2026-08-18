@@ -14,12 +14,7 @@ The repository documents the transition from fundamental programming skills to a
 
 Develop strong algorithmic thinking, master competitive programming techniques, participate in olympiads and transform theoretical knowledge into practical solutions.
 
-# 🚀 Projects
-
-## Phase I
-*No projects*
-
-## Phase II
+## 🚀🚀🚀 Projects of Phase III
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
@@ -28,13 +23,13 @@ Develop strong algorithmic thinking, master competitive programming techniques, 
 | **NS-I003** | |  | 📝 |
 | **NS-I004** |  |  | 📝 |
 
-# 🏆 Olympiads & Competitions
+## 🏆 Olympiads & Competitions
 
 The repository will also document participation in programming competitions and olympiads.
 
 Results, certificates and relevant materials may be documented alongside the corresponding projects.
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * C++ (min level)
 * Python
@@ -42,7 +37,7 @@ Results, certificates and relevant materials may be documented alongside the cor
 * GitHub
 * Competitive Programming Platforms
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Competitive programming is not only about solving problems.
 
