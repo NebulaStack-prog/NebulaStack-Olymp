@@ -4,9 +4,9 @@
 
 ## 📖 About
 
-**NebulaStack – Olymp** is the competitive programming repository of the NebulaStack ecosystem.
+**NebulaStack – Olymp** is the competitive programming repository of the NESTIMS ecosystem.
 
-It contains algorithmic problems, contest solutions, mathematical approaches, training materials and experimental competitive programming projects developed throughout the NebulaStack journey.
+It contains algorithmic problems, contest solutions, mathematical approaches, training materials and experimental competitive programming projects developed throughout the NESTIMS journey.
 
 The repository documents the transition from fundamental programming skills to advanced olympiad-level problem solving.
 
