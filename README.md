@@ -18,7 +18,7 @@ Develop strong algorithmic thinking, master competitive programming techniques, 
 
 | ID | Project | Links | Status |
 | ------ | -------------- | ------- | :----: |
-| **NS-I001** |For Exam| https://github.com/NebulaStack-prog/Exam | ✅️ |
+| **NS-I001** |For Exam| [More...](https://github.com/NebulaStack-prog/Exam) | ✅️ |
 | **NS-I002** |  |  | 📝 |
 | **NS-I003** | |  | 📝 |
 | **NS-I004** |  |  | 📝 |
